@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiaryApp/DiaryAdderViewController.swift"
+            timestampString = "490991622.34418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "managedContextOfObjects"
+            landmarkType = "19">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiaryApplication.DiaryAdderViewController.managedContextOfObjects.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSManagedObjectContext&gt;"
+                  moduleName = "DiaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryanayllon/Downloads/DiaryApp-master/DiaryApp/DiaryAdderViewController.swift"
+                  timestampString = "490986713.775171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiaryApplication.DiaryAdderViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; DiaryApplication.DiaryAdderViewController"
+                  moduleName = "DiaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryanayllon/Downloads/DiaryApp-master/DiaryApp/DiaryAdderViewController.swift"
+                  timestampString = "490986713.77536"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DiaryApplication.DiaryAdderViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DiaryApplication.DiaryAdderViewController&gt;"
+                  moduleName = "DiaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bryanayllon/Downloads/DiaryApp-master/DiaryApp/DiaryAdderViewController.swift"
+                  timestampString = "490986713.775551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
